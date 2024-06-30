@@ -1,9 +1,9 @@
-# rss-stage0
+# GO IT projects
 
-## [Library](https://bolotinalexey.github.io/rss-stage0/library)
+## [Cookbook Yummy](https://basesnel.github.io/project-yummy-f/)
 
-## [Audio-player](https://bolotinalexey.github.io/rss-stage0/audio-player)
+## [NY Times News](https://maxf1996.github.io/NYTimesNews/)
 
-## [Image-gallery](https://bolotinalexey.github.io/rss-stage0/image-gallery)
+## [Ice Cream](https://bolotinalexey.github.io/go-it-team-project/)
 
-## [Game 2048](https://bolotinalexey.github.io/rss-stage0/random-game)
+## [Web Studio](https://bolotinalexey.github.io/goit-markup-hw-08)
